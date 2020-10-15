@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="ru">
   <?
-    include_once('./templates/blocks/head.php')
+    include_once('./templates/blocks/head.php');
+    //я изменил же файл аааааааааааааа
   ?>
   <body>
     <?
