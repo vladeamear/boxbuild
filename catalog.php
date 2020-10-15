@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <?
-    include_once('./templates/blocks/head.php');
-    //modified index php ??
-    //very modified
-    //index.php
+    include_once('./templates/blocks/head.php')
   ?>
   <body>
     <?
