@@ -2,6 +2,7 @@
 <html lang="ru">
   <?
     include_once('./templates/blocks/head.php');
+    //изменил файл, опять
   ?>
   <body>
     <?
