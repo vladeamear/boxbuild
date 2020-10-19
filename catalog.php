@@ -2,7 +2,7 @@
 <html lang="ru">
   <?
     include_once('./templates/blocks/head.php');
-    //изменил файл тут
+    //изменил файл 
   ?>
   <body>
     <?
