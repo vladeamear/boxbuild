@@ -277,7 +277,6 @@ include_once('./templates/blocks/head.php');
           </div>
           <div class="price_wrapper">
           <?
-            //include_once('./templates/blocks/item-prices.php')
             $itemsRent = $database['item'];
 
             foreach($itemsRent as $key => $value){
