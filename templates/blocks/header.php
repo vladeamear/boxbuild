@@ -22,14 +22,14 @@
               <ul class="menu">
                 <li><a href="/rent.php">Аренда бытовки</a>`
                   <ul class="submenu">
-                    <li><a href="#">Аренда бытовок в Видном</a></li>
-                    <li><a href="#">Аренда бытовок в Домодедово</a></li>
-                    <li><a href="#">Аренда бытовок в Видном</a></li>
-                    <li><a href="#">Аренда бытовок в Домодедово</a></li>
-                    <li><a href="#">Аренда бытовок в Видном</a></li>
-                    <li><a href="#">Аренда бытовок в Домодедово</a></li>
-                    <li><a href="#">Аренда бытовок в Видном</a></li>
-                    <li><a href="#">Аренда бытовок в Домодедово</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Видном</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Домодедово</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Видном</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Домодедово</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Видном</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Домодедово</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Видном</a></li>
+                    <li><a href="/catalog.php">Аренда бытовок в Домодедово</a></li>
                   </ul>
                 </li>
                 <li><a href="/price.php">Цены</a></li>
